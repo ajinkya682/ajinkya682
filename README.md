@@ -169,7 +169,7 @@ Real-time customer support infrastructure with AI automation, smart ticket routi
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/ajinkya682/ajinkya682/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/ajinkya682/ajinkya682/output/github-snake-dark.svg)
 
 </div>
 
