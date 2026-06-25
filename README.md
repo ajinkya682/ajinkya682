@@ -1,38 +1,40 @@
 <div align="center">
 
-<!-- Typing SVG Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Full-Stack+%26+AI+Application+Developer;Building+Production-Ready+SaaS+%26+AI+Systems;MERN+Stack+%7C+Next.js+%7C+OpenAI+%7C+Gemini)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=110&lines=Hey%2C+I'm+Ajinkya+Saivar+%F0%9F%91%8B;Full-Stack+%26+AI+Application+Developer;Building+Production-Ready+SaaS+%26+AI+Systems)](https://git.io/typing-svg)
 
----
+<br/>
 
-# Ajinkya Saivar
+[![Portfolio](https://img.shields.io/badge/Portfolio-ajinkya--saivar.vercel.app-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://ajinkya-saivar.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajinkya-saivar)
+[![Twitter](https://img.shields.io/badge/Twitter%2FX-Follow-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Ajinkya_Saivar)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@ajinkyastechmindofficial)
+[![Email](https://img.shields.io/badge/Email-ajinkyasaivar66%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ajinkyasaivar66@gmail.com)
 
-**Full-Stack Developer · MERN Stack · AI Application Developer**
+<br/>
 
-Maharashtra, India &nbsp;|&nbsp; B.Sc. — Dr. Babasaheb Ambedkar Marathwada University (Expected 2028)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=ajinkya-saivar&style=flat-square&color=6366f1&label=Profile+Views)](https://github.com/ajinkya-saivar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/ajinkya-saivar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366F1?style=flat-square&logo=vercel)](https://ajinkya-saivar.vercel.app)
+![Profile Views](https://komarev.com/ghpvc/?username=ajinkya682&style=flat-square&color=6366f1&label=Profile+Views)
 
 </div>
 
 ---
 
-## About
+## Who I Am
 
-I build production-grade software — multi-tenant SaaS platforms, AI-powered applications, and real-time systems that ship and scale. My work sits at the intersection of modern full-stack engineering and applied AI: integrating LLMs into product workflows, designing event-driven architectures, and solving the kind of infrastructure problems that separate prototypes from products.
+Full-Stack Developer based in Maharashtra, India. I design and ship **multi-tenant SaaS platforms**, **AI-powered applications**, and **real-time systems** — end to end, from schema to deployment.
 
-Currently focused on building AI-augmented developer tooling and B2B SaaS systems. Open to internship opportunities, freelance collaborations, and early-stage startup projects.
+I work across the full product surface: API architecture, state management, LLM integration, and infrastructure. My goal on every project is the same — production-ready code that solves real business problems and can scale.
 
 ---
 
 ## Current Focus
 
-- Architecting **multi-tenant SaaS** systems with role-based access and isolated data layers
-- Integrating **LLM APIs** (Gemini, Mistral, OpenAI) into production application workflows
-- Building **real-time systems** with Socket.IO — presence, notifications, and live collaboration
-- Exploring **RAG pipelines**, structured AI outputs, and knowledge-grounded chatbot architectures
+```text
+→  AI-augmented SaaS products with LLM-powered workflows
+→  Multi-tenant architectures with isolated data and RBAC
+→  Real-time systems: presence, notifications, live collaboration
+→  RAG pipelines and structured AI output design
+→  Deepening DevOps: Docker, GitHub Actions, AWS
+```
 
 ---
 
@@ -48,7 +50,6 @@ Currently focused on building AI-augmented developer tooling and B2B SaaS system
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-433e38?style=flat-square)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 
 **Backend**
 
@@ -56,7 +57,7 @@ Currently focused on building AI-augmented developer tooling and B2B SaaS system
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 **Database**
 
@@ -66,15 +67,17 @@ Currently focused on building AI-augmented developer tooling and B2B SaaS system
 
 **AI & LLMs**
 
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Mistral AI](https://img.shields.io/badge/Mistral_AI-FF7000?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6366F1?style=flat-square)
 
 **DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -84,49 +87,53 @@ Currently focused on building AI-augmented developer tooling and B2B SaaS system
 
 ## Featured Projects
 
-### TalentIQ — AI-Powered Talent Intelligence Platform
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> Production-grade Applicant Tracking System built as a multi-tenant SaaS with AI-driven hiring workflows.
+### TalentIQ
+**AI-Powered Talent Intelligence Platform**
 
-**Architecture Highlights**
-- Multi-tenant data isolation with organization-scoped access control
-- AI resume scoring and candidate ranking via Google Gemini
-- WebRTC-powered in-platform video interviews
-- Kanban-style hiring pipeline with real-time updates
-- Candidate analytics dashboard with hiring funnel metrics
-- Google OAuth + JWT authentication with role-based permissions
-- Next.js 14 App Router with server components and streaming
+Production-grade Applicant Tracking System built as a multi-tenant SaaS. Combines AI-driven candidate scoring with a full recruitment lifecycle — from job posting to offer.
 
-`Next.js 14` `MongoDB` `Google Gemini` `WebRTC` `JWT` `Google OAuth` `Kanban` `Multi-Tenant SaaS`
+**Key Engineering**
+- Multi-tenant architecture with org-scoped data isolation
+- AI resume scoring & ranking via Google Gemini
+- WebRTC in-platform video interviews
+- Kanban hiring pipeline with real-time updates
+- Advanced candidate analytics & hiring funnel metrics
+- Google OAuth + JWT with role-based access control
+- Next.js 14 App Router with server components
 
-> 20+ integrated feature modules across the full hiring lifecycle — from job posting to offer management.
+`Next.js 14` `Gemini AI` `WebRTC` `MongoDB` `JWT` `OAuth` `Socket.IO`
 
----
+> 20+ feature modules across the full hiring lifecycle
 
-### SupportBotAI — AI-Powered B2B Customer Support Platform
+</td>
+<td width="50%" valign="top">
 
-> Real-time customer support infrastructure with AI automation, live agent handoff, and knowledge-aware responses.
+### SupportBotAI
+**AI-Powered B2B Customer Support Platform**
 
-**Architecture Highlights**
-- Real-time chat system built on Socket.IO with presence tracking and typing indicators
-- Mistral AI integration for automated ticket classification and response generation
-- Website knowledge crawler for grounding AI responses in product documentation
-- Intelligent human handoff logic with escalation triggers
-- Multi-channel push notification system
-- Ticket routing engine with priority queuing and SLA tracking
-- Multi-tenant architecture supporting isolated workspaces per client
+Real-time customer support infrastructure with AI automation, smart ticket routing, and seamless agent handoff — deployed as a multi-tenant SaaS.
 
-`Node.js` `Socket.IO` `Mistral AI` `React` `MongoDB` `Multi-Tenant` `RAG` `Push Notifications`
+**Key Engineering**
+- Real-time chat with presence tracking (Socket.IO)
+- Mistral AI engine for automated responses & classification
+- Knowledge base crawler for context-grounded AI replies
+- Intelligent human handoff with escalation logic
+- Ticket routing engine with priority queuing
+- Push notification system across channels
+- Multi-tenant workspace isolation
 
-> **Winner — Creative Excellence Award, Sheryians Hackathon**
+`Node.js` `Socket.IO` `Mistral AI` `React` `MongoDB` `RAG`
 
----
+> **Winner — Creative Excellence Award**
+> Sheryians Coding School Hackathon
 
-## Engineering Philosophy
-
-Software is only as good as the problems it solves and the systems it survives. I approach every project with three questions: Does this scale? Can someone else maintain it? Does it actually ship?
-
-I favor clean architectural boundaries over premature abstraction, real-world production constraints over ideal-world design patterns, and direct problem solving over framework dependency. AI is a capability multiplier — I integrate it where it creates genuine leverage, not as an afterthought.
+</td>
+</tr>
+</table>
 
 ---
 
@@ -134,23 +141,39 @@ I favor clean architectural boundaries over premature abstraction, real-world pr
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajinkya-saivar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&count_private=true" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkya-saivar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=ajinkya682&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+&nbsp;&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkya682&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ajinkya-saivar&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ajinkya682&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideLabels=c9d1d9&dates=c9d1d9)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ajinkya-saivar&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ajinkya682&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&area_color=6366f1)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=ajinkya682&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## Engineering Philosophy
+
+> *Ship systems that work in production. Build for maintainability. Solve real problems.*
+
+Clean architectural boundaries over premature abstraction. Pragmatic decisions over theoretical purity. AI as a genuine capability multiplier — integrated where it creates leverage, not added for appearances.
+
+I think in systems: schema → API contract → state management → deployment pipeline. Every layer should be explainable, replaceable, and debuggable at 2am.
 
 ---
 
@@ -158,10 +181,11 @@ I favor clean architectural boundaries over premature abstraction, real-world pr
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ajinkya_Saivar-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ajinkya-saivar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ajinkya--saivar.vercel.app-6366F1?style=for-the-badge&logo=vercel)](https://ajinkya-saivar.vercel.app)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail)](mailto:ajinkyasaivar@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-@ajinkya--saivar-181717?style=for-the-badge&logo=github)](https://github.com/ajinkya-saivar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://ajinkya-saivar.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajinkya-saivar)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajinkyasaivar66@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter%2FX-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Ajinkya_Saivar)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ajinkyastechmindofficial)
 
 </div>
 
@@ -169,7 +193,8 @@ I favor clean architectural boundaries over premature abstraction, real-world pr
 
 <div align="center">
 
-*Available for internships, freelance projects, and startup collaborations.*
+**Open to internships · freelance projects · startup collaborations**
+
 *I build things that work in production — let's talk.*
 
 </div>
