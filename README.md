@@ -148,9 +148,10 @@ Real-time customer support infrastructure with AI automation, smart ticket routi
 </div>
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ajinkya682&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideLabels=c9d1d9&dates=c9d1d9)](https://git.io/streak-stats)
-
+  <img
+    src="https://streak-stats.demolab.com?user=ajinkya682&theme=tokyonight&hide_border=true&background=0D1117&cache_seconds=86400"
+    alt="GitHub Streak"
+  />
 </div>
 
 <div align="center">
