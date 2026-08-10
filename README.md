@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=110&lines=Hey%2C+I'm+Ajinkya+Saivar+%F0%9F%91%8B;Full-Stack+%26+AI+Application+Developer;Building+Production-Ready+SaaS+%26+AI+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=110&lines=Hey%2C+I'm+Ajinkya+Saivar+%F0%9F%91%8B;Full-Stack+%26+AI+Application+Developer;Building+Production-Ready+SaaS+%26+AI+Systems+Hackathon+Winner+🏆)](https://git.io/typing-svg)
 
 <br/>
 
